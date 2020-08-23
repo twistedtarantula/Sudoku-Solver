@@ -1,2 +1,2 @@
 # Sudoku-Solver
-This is a python program that uses backtracking algorithm to solve any possible sudoku puzzle.
+This python code uses backtracking algorithm to solve any possible sudoku puzzle.
